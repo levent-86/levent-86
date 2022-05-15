@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Levent
 - 👀 I’m interested in web development and blockchain technologies
-- 🌱 I learned HTML and now currently learning CSS. I will study JS and Solidity in order when i finish CSS.
+- 🌱 I learned HTML and CSS. now currently learning JS.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 You can reach me on twitter: @mleventfidanci
 
