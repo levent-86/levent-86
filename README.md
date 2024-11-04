@@ -1,1 +1,1 @@
-[My Linkedin account.](https://www.linkedin.com/in/mustafaleventfidanci/)
+[Visit my Linkedin account.](https://www.linkedin.com/in/mustafaleventfidanci/)
