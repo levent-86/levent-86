@@ -1,1 +1,2 @@
-[Visit my Linkedin account.](https://www.linkedin.com/in/mustafaleventfidanci/)
+[Linkedin](https://www.linkedin.com/in/mustafaleventfidanci/)
+[NeuraLetter Suite](https://neuraletter.com)
